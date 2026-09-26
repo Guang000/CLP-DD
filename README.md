@@ -1,4 +1,4 @@
-# CLP-DD: Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models
+# Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models (NeurIPS 2026)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.07194-b31b1b.svg)](https://arxiv.org/abs/2605.07194)
 [![Conference](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://neurips.cc/Conferences/2026)

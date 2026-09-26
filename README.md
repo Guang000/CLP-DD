@@ -7,6 +7,7 @@ A closed-form dataset distillation framework for the frozen-backbone linear-prob
 
 ## 📢 News
 
+* Code will be released soon.
 * Sep 2026: Our paper has been accepted to NeurIPS 2026!
 * May 2026: Preprint was released.
 

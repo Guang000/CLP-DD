@@ -1,11 +1,14 @@
 # CLP-DD: Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.07194-b31b1b.svg)](https://arxiv.org/abs/2605.07194)
+[![Conference](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://neurips.cc/Conferences/2026)
 
 A closed-form dataset distillation framework for the frozen-backbone linear-probing setting that solves the inner linear probe exactly with a sample-space kernel ridge solver and optimizes synthetic images through a discriminative outer objective, without NTK approximations or inner-loop trajectories.
 
-- Code will be released soon!
-- May 2026: Preprint was released.
+## 📢 News
+
+* Sep 2026: Our paper has been accepted to NeurIPS 2026!
+* May 2026: Preprint was released.
 
 ## 🎯 Key Contributions
 
